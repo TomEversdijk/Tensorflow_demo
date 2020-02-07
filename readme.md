@@ -181,7 +181,7 @@ for _ in range(10):
     
 
 
-![png](output_15_1.png)
+![png](img/output_15_1.png)
 
 
     Prediction array: [[8.6214801e-04 1.2521667e-03 1.4281529e-02 5.6477159e-04 1.9891805e-04
@@ -192,7 +192,7 @@ for _ in range(10):
     
 
 
-![png](output_15_3.png)
+![png](img/output_15_3.png)
 
 
     Prediction array: [[9.99996424e-01 1.07184315e-08 1.39571318e-06 2.91048230e-09
@@ -204,7 +204,7 @@ for _ in range(10):
     
 
 
-![png](output_15_5.png)
+![png](img/output_15_5.png)
 
 
     Prediction array: [[6.7147124e-03 2.8764296e-04 2.1408902e-02 1.4900530e-02 1.3949716e-04
@@ -215,7 +215,7 @@ for _ in range(10):
     
 
 
-![png](output_15_7.png)
+![png](img/output_15_7.png)
 
 
     Prediction array: [[1.3612880e-07 9.3668259e-06 4.6884855e-03 9.9472153e-01 1.3855236e-09
@@ -226,7 +226,7 @@ for _ in range(10):
     
 
 
-![png](output_15_9.png)
+![png](img/output_15_9.png)
 
 
     Prediction array: [[1.7485587e-10 1.0678607e-08 3.3428493e-09 6.0010885e-09 9.9984455e-01
@@ -237,7 +237,7 @@ for _ in range(10):
     
 
 
-![png](output_15_11.png)
+![png](img/output_15_11.png)
 
 
     Prediction array: [[9.6174443e-01 3.5164870e-05 1.7527567e-03 7.2517178e-05 3.9180755e-05
@@ -248,7 +248,7 @@ for _ in range(10):
     
 
 
-![png](output_15_13.png)
+![png](img/output_15_13.png)
 
 
     Prediction array: [[1.6436867e-04 3.0209707e-02 9.0998107e-01 1.5625421e-02 5.7706478e-07
@@ -270,7 +270,7 @@ for _ in range(10):
     
 
 
-![png](output_15_17.png)
+![png](img/output_15_17.png)
 
 
     Prediction array: [[1.00830539e-06 1.10552264e-07 1.17476511e-05 2.41847555e-08
@@ -282,7 +282,7 @@ for _ in range(10):
     
 
 
-![png](output_15_19.png)
+![png](img/output_15_19.png)
 
 
     Prediction array: [[6.9703086e-04 4.4808708e-06 9.4083009e-07 6.0851331e-04 3.4376788e-07
@@ -310,7 +310,7 @@ print("Ground truth: " + str(y_test[1]))
 ```
 
 
-![png](output_17_0.png)
+![png](img/output_17_0.png)
 
 
     Prediction array: [[6.0280847e-05 3.1808595e-04 9.9914527e-01 4.1767690e-04 1.3485847e-09
@@ -338,7 +338,7 @@ print("Ground truth: " + str(y_test[591]))
 ```
 
 
-![png](output_19_0.png)
+![png](img/output_19_0.png)
 
 
     
@@ -442,7 +442,7 @@ for _ in range(10):
     
 
 
-![png](output_26_1.png)
+![png](img/output_26_1.png)
 
 
     Prediction array: [[2.3858884e-06 6.5917149e-08 2.4027399e-06 2.2185418e-06 6.1994018e-07
@@ -453,7 +453,7 @@ for _ in range(10):
     
 
 
-![png](output_26_3.png)
+![png](img/output_26_3.png)
 
 
     Prediction array: [[1.33630820e-05 1.47337205e-05 9.40054269e-06 1.96209476e-05
@@ -465,7 +465,7 @@ for _ in range(10):
     
 
 
-![png](output_26_5.png)
+![png](img/output_26_5.png)
 
 
     Prediction array: [[1.04027436e-08 8.77575879e-09 7.15145703e-08 1.54661706e-08
@@ -477,7 +477,7 @@ for _ in range(10):
     
 
 
-![png](output_26_7.png)
+![png](img/output_26_7.png)
 
 
     Prediction array: [[1.04515775e-05 9.99328852e-01 1.29268621e-04 9.51878428e-06
@@ -489,7 +489,7 @@ for _ in range(10):
     
 
 
-![png](output_26_9.png)
+![png](img/output_26_9.png)
 
 
     Prediction array: [[1.5637663e-06 1.0219692e-05 9.6375418e-01 1.9073689e-04 1.7340639e-08
@@ -500,7 +500,7 @@ for _ in range(10):
     
 
 
-![png](output_26_11.png)
+![png](img/output_26_11.png)
 
 
     Prediction array: [[1.7825221e-07 3.0699387e-06 2.5096550e-04 3.2584503e-04 5.1856492e-08
@@ -511,7 +511,7 @@ for _ in range(10):
     
 
 
-![png](output_26_13.png)
+![png](img/output_26_13.png)
 
 
     Prediction array: [[6.0174876e-10 5.1352855e-09 7.9819259e-08 1.1027844e-08 9.9997437e-01
@@ -522,7 +522,7 @@ for _ in range(10):
     
 
 
-![png](output_26_15.png)
+![png](img/output_26_15.png)
 
 
     Prediction array: [[5.7662572e-05 1.7915262e-04 9.6506430e-03 8.5551455e-06 7.6798683e-01
@@ -533,7 +533,7 @@ for _ in range(10):
     
 
 
-![png](output_26_17.png)
+![png](img/output_26_17.png)
 
 
     Prediction array: [[7.3090831e-07 5.9662135e-08 3.4326201e-04 1.8839490e-08 9.9923635e-01
@@ -544,7 +544,7 @@ for _ in range(10):
     
 
 
-![png](output_26_19.png)
+![png](img/output_26_19.png)
 
 
     Prediction array: [[4.31369654e-06 4.23639858e-06 5.04540396e-04 2.08805403e-07

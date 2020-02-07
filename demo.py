@@ -158,18 +158,10 @@ def eval_model_with_generator(model):
     print('Test loss:', score[0])
     print('Test accuracy:', score[1])
 
-
-# # model = create_model()
-# # train_model(model=model)
-# model = load_model("example_model.h5")
-# # eval_model(model)
-# # for _ in range(10):
-# #     random_predict(model)
-# predict_fault(model)
-
-(_, _), (x_test, y_test) = mnist.load_data()
-first_image = x_test[591]
-first_image = np.array(first_image, dtype='float')
-pixels = first_image.reshape((28, 28))
-plt.imshow(pixels, cmap='gray')
-plt.show()
+model = create_model()
+# train_model(model=model)
+model = load_model("example_model.h5")
+eval_model(model)
+for _ in range(10):
+random_predict(model)
+predict_fault(model)
